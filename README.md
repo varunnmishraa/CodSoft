@@ -23,4 +23,11 @@ balance.
 <br>6. Validate user input to ensure it is within acceptable limits (e.g., sufficient balance for withdrawals).
 <br>7. Display appropriate messages to the user based on their chosen options and the success or failure of their transactions.
 
+<br> [ Project 3 : Quiz Application with Timer ] : In this project following features are added :
+<br>1. Quiz Questions and Options - Store quiz questions along with multiple-choice options and correct answers.
+<br>2. Timer - Implement a timer for each question to limit the time to answer.
+<br>3. Question Display-  Present one question at a time with multiple-choice options.
+<br>4. Answer Submission - Allow users to select an option and submit their answer within the given time.
+<br>5. Score Calculation - Keep track of the user's score based on correct answers.
+
 
