@@ -11,8 +11,8 @@ Calculate Average Percentage - Divide the total marks by the total number of sub
 <br> Grade Calculation - Assign grades based on the average percentage achieved.</br>
 Display Results - Show the total marks, average percentage, and the corresponding grade to the user.
 
-<br> [ Project 2 : ATM Interface ] : In this project following features are added.
-<br>1.Create a class to represent the ATM machine.
+<br> <b>[ Project 2 : ATM Interface ] :</b> In this project following features are added.
+<br>1. Create a class to represent the ATM machine.
 <br>2. Design the user interface for the ATM, including options such as withdrawing, depositing, and
 checking the balance.
 <br>3. Implement methods for each option, such as withdraw(amount), deposit(amount), and
@@ -23,11 +23,19 @@ balance.
 <br>6. Validate user input to ensure it is within acceptable limits (e.g., sufficient balance for withdrawals).
 <br>7. Display appropriate messages to the user based on their chosen options and the success or failure of their transactions.
 
-<br> [ Project 3 : Quiz Application with Timer ] : In this project following features are added :
+<br> <b>[ Project 3 : Quiz Application with Timer ] :</b> In this project following features are added :
 <br>1. Quiz Questions and Options - Store quiz questions along with multiple-choice options and correct answers.
 <br>2. Timer - Implement a timer for each question to limit the time to answer.
 <br>3. Question Display-  Present one question at a time with multiple-choice options.
 <br>4. Answer Submission - Allow users to select an option and submit their answer within the given time.
 <br>5. Score Calculation - Keep track of the user's score based on correct answers.
+
+ <br><b>[ Project 4 : Student Course Registration System ] :</b> In this project following features are added :
+ <br>1. Course Database: Store course information, including course code, title, description, capacity, and schedule.
+<br>2. Student Database: Store student information, including student ID, name, and registered courses.
+<br>3. Course Listing: Display available courses with details and available slots.
+<br>4. Student Registration: Allow students to register for courses from the available options.
+<br>5. Course Removal: Enable students to drop courses they have registered for.
+
 
 
